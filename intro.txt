@@ -1,1 +1,4 @@
 Introduction
+
+this course is all about git and github
+
